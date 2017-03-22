@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# gamalead
+Challenge: Capturing the most leads
+>>>>>>> 229409442aa19edc0447e17f66bdd6f2426a221d
